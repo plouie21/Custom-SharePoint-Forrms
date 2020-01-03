@@ -1,0 +1,11 @@
+{
+  "@microsoft/generator-sharepoint": {
+    "isCreatingSolution": true,
+    "environment": "onprem",
+    "version": "1.9.1",
+    "libraryName": "reactform",
+    "libraryId": "16200389-9ba6-4c97-87da-d90cb9a2e3e4",
+    "packageManager": "npm",
+    "componentType": "webpart"
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "entries": [
+    {
+      "entry": "./lib/webparts/spreactform/SpreactformWebPart.js",
+      "manifest": "./src/webparts/spreactform/SpreactformWebPart.manifest.json",
+      "outputPath": "./dist/spreactform-web-part.js"
+    }
+  ],
+  "externals": {},
+  "localizedResources": {
+    "SpreactformWebPartStrings": "webparts/spreactform/loc/{locale}.js"
+  }
+}

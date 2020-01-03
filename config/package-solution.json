@@ -1,0 +1,11 @@
+{
+  "$schema": "https://developer.microsoft.com/json-schemas/spfx-build/package-solution.schema.json",
+  "solution": {
+    "name": "reactform-client-side-solution",
+    "id": "16200389-9ba6-4c97-87da-d90cb9a2e3e4",
+    "version": "1.0.0.0"
+  },
+  "paths": {
+    "zippedPackage": "solution/reactform.sppkg"
+  }
+}
